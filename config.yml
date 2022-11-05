@@ -1,4 +1,4 @@
-baseURL: "https://bytacharya-in.github.io/"
+baseURL: "/"
 title: Bytacharya
 paginate: 5
 theme: PaperMod
