@@ -1,6 +1,6 @@
 ---
 title: "Test"
-date: 2022-11-05T22:29:18+05:30
-tags: ['test']
+date: 2022-11-06T00:13:24+05:30
+tags: ['tag2']
 ---
-Hi, this a test post.
+
