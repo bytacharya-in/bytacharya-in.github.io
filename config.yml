@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: https://bytacharya-in.github.io/
 title: ExampleSite
 paginate: 5
 theme: PaperMod
