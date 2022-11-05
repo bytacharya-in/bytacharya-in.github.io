@@ -1,5 +1,5 @@
-baseURL: "/"
-title: Bytacharya
+baseURL: "https://examplesite.com/"
+title: ExampleSite
 paginate: 5
 theme: PaperMod
 
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Bytacharya 
+  title: ExampleSite
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -73,16 +73,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Sourav Bhattacharya "
-    Content: Mathematics student studying data science from IITM. Interested in Linux and Open source. In this blog I'll generally be focused on posting about linux, programming, maybe some how to guides etc.
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/sourav_3141"
-        #- name: stackoverflow
-       #url: "https://stackoverflow.com"
+      url: "https://twitter.com/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/bytacharya"
+      url: "https://github.com/"
 
   analytics:
     google:
@@ -98,7 +98,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/bytacharya/bytacharya-in.github.io/content"
+    URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -122,10 +122,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-        #- identifier: example
-        #name: example.org
-        #url: https://example.org
-        #weight: 30
+    - identifier: example
+      name: example.org
+      url: https://example.org
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
