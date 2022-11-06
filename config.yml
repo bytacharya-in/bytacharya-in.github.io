@@ -27,24 +27,18 @@ languages:
         menu:
             main:
                 - name: Archive
-                  url: archives
+                  url: archives/
                   weight: 5
-                - name: Search
-                  url: search/
+                - name: Tags 
                   url: tags/
                   weight: 10
-                - name: WiKi
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-                - name: Discord
-                  url: https://discord.gg/ahpmTvhVmp
+                    #- name: WiKi
+                    #url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+                    #- name: Discord
+                    #url: https://discord.gg/ahpmTvhVmp
 
             # imageWidth: 120
             # imageHeight: 120
-        menu:
-            main:
-                - name: Archive
-                  url: archives/
-                  weight: 5
 outputs:
     home:
         - HTML
@@ -85,12 +79,10 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Bytacharya" 
-        Content: > 
-            - Hi, welcome to my blog Bytacharya. 
-
-            - I am Sourav Bhattacharya from India. A mathematics student who is also enrolled in BS Data Science from IITM. Linux, open source and programming interest me.
-            > Bytacharya is my blog where I'd generally be focused on posting about programming, open source, linux, career, techonolgy in general and maybe some how tos on them later on etc.
+        Title: "Sourav Bhattacharya" 
+        Content: Mathematics student, learning data science from IITM 
+            
+            
 
     socialIcons:
         - name: github
