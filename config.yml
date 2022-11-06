@@ -26,12 +26,17 @@ languages:
           series: series
         menu:
             main:
-                - name: Archive
-                  url: archives/
-                  weight: 5
-                - name: Tags 
-                  url: tags/
-                  weight: 5
+               - name: About
+                 url: about/
+                 weight: 5
+
+               - name: Archive
+                 url: archives/
+                 weight: 5
+               
+               - name: Tags 
+                 url: tags/
+                 weight: 5
                     #- name: Subscribe
                     #- weight: 5  
                    #- name: WiKi
