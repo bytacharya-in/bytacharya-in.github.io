@@ -31,8 +31,10 @@ languages:
                   weight: 5
                 - name: Tags 
                   url: tags/
-                  weight: 10
-                    #- name: WiKi
+                  weight: 5
+                - name: Subscribe
+                - weight: 5  
+                  #- name: WiKi
                     #url: https://github.com/adityatelange/hugo-PaperMod/wiki/
                     #- name: Discord
                     #url: https://discord.gg/ahpmTvhVmp
