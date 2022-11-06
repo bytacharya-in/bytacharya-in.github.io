@@ -87,6 +87,11 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/bytacharya"
+        - name: twitter
+          url: "https://twitter.com/sourav_3141"
+        - name: rss
+          url: "index.xml"
+
         #- name: KoFi
         #  url: "https://ko-fi.com/adityatelange"
         #- name: Rss
