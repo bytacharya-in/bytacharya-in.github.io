@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Bytacharya</title>
-    <link>https://www.bytacharya.in/tags/</link>
+    <link>https://bytacharya.in/tags/</link>
     <description>Recent content in Tags on Bytacharya</description>
     <image>
-      <url>https://www.bytacharya.in/papermod-cover.png</url>
-      <link>https://www.bytacharya.in/papermod-cover.png</link>
+      <url>https://bytacharya.in/papermod-cover.png</url>
+      <link>https://bytacharya.in/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Nov 2022 11:02:17 +0530</lastBuildDate><atom:link href="https://www.bytacharya.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 11:02:17 +0530</lastBuildDate><atom:link href="https://bytacharya.in/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>sampletag</title>
-      <link>https://www.bytacharya.in/tags/sampletag/</link>
+      <link>https://bytacharya.in/tags/sampletag/</link>
       <pubDate>Sun, 06 Nov 2022 11:02:17 +0530</pubDate>
       
-      <guid>https://www.bytacharya.in/tags/sampletag/</guid>
+      <guid>https://bytacharya.in/tags/sampletag/</guid>
       <description></description>
     </item>
     

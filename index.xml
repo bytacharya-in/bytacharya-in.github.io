@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bytacharya</title>
-    <link>https://www.bytacharya.in/</link>
+    <link>https://bytacharya.in/</link>
     <description>Recent content on Bytacharya</description>
     <image>
-      <url>https://www.bytacharya.in/papermod-cover.png</url>
-      <link>https://www.bytacharya.in/papermod-cover.png</link>
+      <url>https://bytacharya.in/papermod-cover.png</url>
+      <link>https://bytacharya.in/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Nov 2022 11:02:17 +0530</lastBuildDate><atom:link href="https://www.bytacharya.in/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 11:02:17 +0530</lastBuildDate><atom:link href="https://bytacharya.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://www.bytacharya.in/posts/test/</link>
+      <link>https://bytacharya.in/posts/test/</link>
       <pubDate>Sun, 06 Nov 2022 11:02:17 +0530</pubDate>
       
-      <guid>https://www.bytacharya.in/posts/test/</guid>
+      <guid>https://bytacharya.in/posts/test/</guid>
       <description>This is a test post.</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://www.bytacharya.in/test/</link>
+      <link>https://bytacharya.in/test/</link>
       <pubDate>Sun, 06 Nov 2022 10:46:17 +0530</pubDate>
       
-      <guid>https://www.bytacharya.in/test/</guid>
+      <guid>https://bytacharya.in/test/</guid>
       <description>This is a test post.</description>
     </item>
     
