@@ -90,7 +90,7 @@ params:
             - Hi, welcome to my blog Bytacharya. 
 
             - I am Sourav Bhattacharya from India. A mathematics student who is also enrolled in BS Data Science from IITM. Linux, open source and programming interest me.
-            - Bytacharya is my blog where I'd generally be focused on posting about programming, open source, linux, career, techonolgy in general and maybe some how tos on them later on etc.
+            > Bytacharya is my blog where I'd generally be focused on posting about programming, open source, linux, career, techonolgy in general and maybe some how tos on them later on etc.
 
     socialIcons:
         - name: github
