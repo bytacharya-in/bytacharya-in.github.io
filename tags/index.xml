@@ -8,6 +8,16 @@
       <url>https://bytacharya-in.github.io/papermod-cover.png</url>
       <link>https://bytacharya-in.github.io/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://bytacharya-in.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 06 Nov 2022 11:02:17 +0530</lastBuildDate><atom:link href="https://bytacharya-in.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sampletag</title>
+      <link>https://bytacharya-in.github.io/tags/sampletag/</link>
+      <pubDate>Sun, 06 Nov 2022 11:02:17 +0530</pubDate>
+      
+      <guid>https://bytacharya-in.github.io/tags/sampletag/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
