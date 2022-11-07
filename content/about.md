@@ -40,7 +40,7 @@ cover:
 ---
 >Hello, welcome to my blog. I am Sourav Bhattacharya from India. I am a Mathematics graduate about to start masters degree in Mathematics. Alongside this, I'm pursuing BS in Data Science from IITM.    
 >
->I created Bytacharya to share things I learn; mostly about techonology in general, programming, mathenatics, data science, linux and lifestyle.   
+>I created Bytacharya to share things I learn; mostly about techonology in general, programming, mathematics, data science, linux and lifestyle.   
 
 >This blog was created using [Hugo](https://gohugo.io) and the theme [PaperMod](https://github.com/adityatelange/hugo-PaperMod). And the website is being hosted on [Github Pages](https://github.io)
 
