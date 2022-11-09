@@ -32,7 +32,7 @@ languages:
 
                - name: Archive
                  url: archives/
-                 weight: 10
+                 weight: 5 
                
                - name: Tags 
                  url: tags/
