@@ -8,6 +8,16 @@
       <url>https://bytacharya.in/papermod-cover.png</url>
       <link>https://bytacharya.in/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://bytacharya.in/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 09 Nov 2022 21:44:28 +0530</lastBuildDate><atom:link href="https://bytacharya.in/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>https://bytacharya.in/categories/linux/</link>
+      <pubDate>Wed, 09 Nov 2022 21:44:28 +0530</pubDate>
+      
+      <guid>https://bytacharya.in/categories/linux/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
