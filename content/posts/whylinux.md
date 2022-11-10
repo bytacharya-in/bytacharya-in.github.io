@@ -20,7 +20,7 @@ Linux, as we know, is open source. This makes the OS very much customizable to s
 
 <br>
 
-These Linux distributions generally come together packaged with GNU packages and libraries. Thus [The Free Software Foundation](https://www.fsf.org/) calls it GNU/Linux rather than just Linux. Linux is the just the kernel, rest of the OS is built around GNU. 
+These Linux distributions generally come packaged together with GNU packages and libraries. Thus [The Free Software Foundation](https://www.fsf.org/) calls it GNU/Linux rather than just Linux. Linux is the just the kernel, rest of the OS is built around GNU. 
 
 <br>
 
