@@ -1,0 +1,18 @@
+<script type="text/javascript">
+ 
+AJS.toInit(function(){
+ 
+        // place after comments section
+        AJS.$('#comments-section').after('<section id="isso-thread" data-title="' + AJS.params.pageTitle + '" data-isso-id="/pages/viewpage.action?pageId=' + AJS.params.pageId + '" style="margin-top:22px"></section>');
+ 
+        (function() {
+            var d = document, s = d.createElement('script');
+            s.type = 'text/javascript'; s.async = true;
+            s.src = 'https://isso.example.com/js/embed.min.js';
+            s.setAttribute('data-isso', 'https://isso.example.com');
+            s.setAttribute('data-isso-reply-notifications', 'true');
+            (d.head || d.body).appendChild(s);
+        })();
+});
+</script>
+<noscript>Please enable JavaScript to view comments.</noscript>
